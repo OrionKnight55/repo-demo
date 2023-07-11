@@ -1,1 +1,3 @@
-# repo-demo
+# demo
+Some description!
+Lets learn git!
